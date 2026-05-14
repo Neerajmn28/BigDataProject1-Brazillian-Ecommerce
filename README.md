@@ -1,4 +1,5 @@
 # Azure Data Factory – Data Pipelines and Orchestration
+This project is an end-to-end Azure Data Engineering pipeline built to process and analyze the Brazilian E-Commerce Public Dataset from Olist Store. The dataset contains over 100,000 orders placed between 2016 and 2018 across multiple marketplaces in Brazil.
 To automate and orchestrate the data flow from multiple sources into Azure Data Lake Storage Gen2, I designed and implemented robust Azure Data Factory (ADF) pipelines. These pipelines serve as the backbone of my data ingestion and transformation process, ensuring a reliable, scalable, and auditable data movement architecture.
 
 
